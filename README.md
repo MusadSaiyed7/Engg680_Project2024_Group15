@@ -21,7 +21,7 @@ This project evaluates and manages the Bow River’s water quality in Calgary, A
 - **Random Forest** 🌲  
 
 **📊 Data Acquisition:**  
-- Self-collected measurements 🛶 and open-source data 🌐.  
+- open-source data 🌐.  
 
 #### **💡 Relevance to Engineering**  
 - **🌱 Environmental Engineering:** Supports pollution control and water management.  
